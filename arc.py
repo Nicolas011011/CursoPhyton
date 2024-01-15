@@ -1,0 +1,1 @@
+hola = ["buenos dias", "buenas tardes", "buenas noches"]
